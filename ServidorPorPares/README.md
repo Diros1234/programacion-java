@@ -1,2 +1,6 @@
-# programacion-java
->>>>>>> 26b3435ab5a75710b4cfc8664759276f4bda228e
+# Servidor to pair
+This project is about a server. This server when a client connects launches a thread for the client. I have communicated to clients in pairs, they can play in pairs.
+
+
+
+
