@@ -4,4 +4,4 @@ This repository is a collection of exercises that I've been doing while studied 
 
 I hope that this exercisis can help someone.
 
-If you have any question about some exercise do not hesitate to ask me, I will try to solve it.
+If you have any question about some exercise don't doubt to ask me, I will try to solve it.
