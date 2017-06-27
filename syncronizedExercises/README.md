@@ -4,7 +4,7 @@
 
 The most important object is the wish object.
 
-The wish object in the example of philosophers that all want a forks is the forks, in the fork object we create a syncronized functions and strategies for solved the problems.
+The wish object in the example of philosophers,is that all philosophers want forks, in the fork object we create a syncronized functions and strategies for solved the problems.
 
 -Syncronized function is for that only one thread or object can execute at the same time.
 
