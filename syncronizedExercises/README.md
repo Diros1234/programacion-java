@@ -16,7 +16,7 @@ First step
 
 The object asks, if there is any object in the block.if that question is true the object can’t enter in the block,if is false the object can enter in the block.
 
-There may be two cases
+At this moment,there could be two cases.
 
 -1 None have entered the block yet.
 
