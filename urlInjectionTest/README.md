@@ -2,11 +2,11 @@
 
 This exercise have a tree functions.
 
-#First function
+# First function
 
 The first functions is about, how read all page and show this content.
 
-#Two and third function practical examples of code injection
+# Two and third function practical examples of code injection
 
 The next two exercises is a practical examples of code injection :
 
